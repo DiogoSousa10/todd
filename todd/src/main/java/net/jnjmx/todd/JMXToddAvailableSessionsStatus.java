@@ -13,7 +13,7 @@ public class JMXToddAvailableSessionsStatus {
 	 */
 	public static void main(String[] args) {
 		try {
-			String server = "192.168.56.11";
+			String server = "192.168.30.101";
 			
 			if (args.length >= 1) {
 				server = args[0];
